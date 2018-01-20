@@ -32,5 +32,8 @@
         "psr-4": {
             "sergeymakinen\\yii\\logmessage\\tests\\": "tests"
         }
+    },
+    "provide": {
+        "sergeymakinen/yii2-log-message": "2.0.1"
     }
 }
